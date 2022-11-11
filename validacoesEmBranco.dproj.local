@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/11/01 19:17:36.000.738,=C:\Users\paulo\OneDrive\Área de Trabalho\Validacoes\Unit1.pas</Transaction>
+    <Transaction>2022/11/01 19:31:32.000.365,=C:\Users\paulo\OneDrive\Área de Trabalho\Validacoes\Unit1.pas</Transaction>
+    <Transaction>2022/11/01 20:18:21.000.199,C:\Users\paulo\OneDrive\Área de Trabalho\Validacoes\uBanco.pas=C:\Users\paulo\OneDrive\Área de Trabalho\Validacoes\Unit1.pas</Transaction>
+    <Transaction>2022/11/01 20:18:21.000.199,C:\Users\paulo\OneDrive\Área de Trabalho\Validacoes\uBanco.dfm=C:\Users\paulo\OneDrive\Área de Trabalho\Validacoes\Unit1.dfm</Transaction>
+    <Transaction>2022/11/04 09:23:20.000.672,=C:\Users\paulo\OneDrive\Área de Trabalho\Validacoes\Unit2.pas</Transaction>
+    <Transaction>2022/11/04 09:23:49.000.290,C:\Users\paulo\OneDrive\Área de Trabalho\Validacoes\uMenu.pas=C:\Users\paulo\OneDrive\Área de Trabalho\Validacoes\Unit2.pas</Transaction>
+    <Transaction>2022/11/04 09:23:49.000.290,C:\Users\paulo\OneDrive\Área de Trabalho\Validacoes\uMenu.dfm=C:\Users\paulo\OneDrive\Área de Trabalho\Validacoes\Unit2.dfm</Transaction>
+    <Transaction>2022/11/04 09:24:11.000.830,C:\Users\paulo\OneDrive\Área de Trabalho\Validacoes\uCadastroValida.pas=C:\Users\paulo\OneDrive\Área de Trabalho\Validacoes\uValidaCampoEmBranco.pas</Transaction>
+    <Transaction>2022/11/04 09:24:11.000.830,C:\Users\paulo\OneDrive\Área de Trabalho\Validacoes\uCadastroValida.dfm=C:\Users\paulo\OneDrive\Área de Trabalho\Validacoes\uValidaCampoEmBranco.dfm</Transaction>
+    <Transaction>2022/11/04 15:20:40.000.134,=C:\Users\paulo\OneDrive\Área de Trabalho\Validacoes\Unit3.pas</Transaction>
+    <Transaction>2022/11/04 15:21:06.000.662,C:\Users\paulo\OneDrive\Área de Trabalho\Validacoes\uRealizaCadastro.pas=C:\Users\paulo\OneDrive\Área de Trabalho\Validacoes\uCadastroValida.pas</Transaction>
+    <Transaction>2022/11/04 15:21:06.000.662,C:\Users\paulo\OneDrive\Área de Trabalho\Validacoes\uRealizaCadastro.dfm=C:\Users\paulo\OneDrive\Área de Trabalho\Validacoes\uCadastroValida.dfm</Transaction>
+    <Transaction>2022/11/04 15:21:27.000.996,C:\Users\paulo\OneDrive\Área de Trabalho\Validacoes\uPesquisaCadastro.dfm=C:\Users\paulo\OneDrive\Área de Trabalho\Validacoes\Unit3.dfm</Transaction>
+    <Transaction>2022/11/04 15:21:27.000.996,C:\Users\paulo\OneDrive\Área de Trabalho\Validacoes\uPesquisaCadastro.pas=C:\Users\paulo\OneDrive\Área de Trabalho\Validacoes\Unit3.pas</Transaction>
+    <Transaction>2022/11/10 14:23:52.000.839,=C:\Users\paulo\OneDrive\Área de Trabalho\Validacoes\Unit4.pas</Transaction>
+    <Transaction>2022/11/10 14:24:19.000.068,C:\Users\paulo\OneDrive\Área de Trabalho\Validacoes\uEditaCadastro.pas=C:\Users\paulo\OneDrive\Área de Trabalho\Validacoes\Unit4.pas</Transaction>
+    <Transaction>2022/11/10 14:24:19.000.068,C:\Users\paulo\OneDrive\Área de Trabalho\Validacoes\uEditaCadastro.dfm=C:\Users\paulo\OneDrive\Área de Trabalho\Validacoes\Unit4.dfm</Transaction>
+    <Transaction>2022/11/10 16:59:14.000.877,=C:\Users\paulo\OneDrive\Área de Trabalho\Validacoes\Unit5.pas</Transaction>
+    <Transaction>2022/11/10 16:59:34.000.427,C:\Users\paulo\OneDrive\Área de Trabalho\Validacoes\uExcluiCadastro.dfm=C:\Users\paulo\OneDrive\Área de Trabalho\Validacoes\Unit5.dfm</Transaction>
+    <Transaction>2022/11/10 16:59:34.000.427,C:\Users\paulo\OneDrive\Área de Trabalho\Validacoes\uExcluiCadastro.pas=C:\Users\paulo\OneDrive\Área de Trabalho\Validacoes\Unit5.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="uBanco.pas"/>
+    <File Path="uBanco.dfm"/>
+    <File Path="uMenu.pas"/>
+    <File Path="uMenu.dfm"/>
+    <File Path="uRealizaCadastro.pas"/>
+    <File Path="uRealizaCadastro.dfm"/>
+    <File Path="uPesquisaCadastro.pas"/>
+    <File Path="uPesquisaCadastro.dfm"/>
+    <File Path="uEditaCadastro.pas"/>
+    <File Path="uEditaCadastro.dfm"/>
+    <File Path="uExcluiCadastro.pas"/>
+    <File Path="uExcluiCadastro.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
